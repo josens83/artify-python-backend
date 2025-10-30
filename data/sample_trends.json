@@ -1,0 +1,65 @@
+{
+    "trending_topics": [
+      {
+        "keyword": "봄신메뉴",
+        "volume": 15200,
+        "growth_rate": 48.5,
+        "sentiment": "positive",
+        "industry": "food",
+        "related_keywords": ["신메뉴출시", "시즌메뉴", "봄한정"]
+      },
+      {
+        "keyword": "할인이벤트",
+        "volume": 12800,
+        "growth_rate": 32.1,
+        "sentiment": "positive",
+        "industry": "all",
+        "related_keywords": ["특가", "프로모션", "세일"]
+      },
+      {
+        "keyword": "친환경",
+        "volume": 8900,
+        "growth_rate": 28.3,
+        "sentiment": "positive",
+        "industry": "all",
+        "related_keywords": ["지속가능", "에코", "제로웨이스트"]
+      },
+      {
+        "keyword": "신상품",
+        "volume": 7600,
+        "growth_rate": 25.7,
+        "sentiment": "neutral",
+        "industry": "fashion",
+        "related_keywords": ["뉴컬렉션", "런칭", "출시"]
+      }
+    ],
+    "popular_hashtags": [
+      {
+        "tag": "#봄신메뉴",
+        "count": 8200,
+        "engagement_rate": 4.5,
+        "platform": "instagram"
+      },
+      {
+        "tag": "#할인이벤트",
+        "count": 6800,
+        "engagement_rate": 3.9,
+        "platform": "instagram"
+      },
+      {
+        "tag": "#친환경제품",
+        "count": 5200,
+        "engagement_rate": 4.2,
+        "platform": "instagram"
+      },
+      {
+        "tag": "#신상품",
+        "count": 4900,
+        "engagement_rate": 3.7,
+        "platform": "instagram"
+      }
+    ],
+    "collected_at": "2025-10-24T09:00:00Z",
+    "data_source": "simulated",
+    "note": "Sample data for demonstration purposes"
+  }
